@@ -1,6 +1,6 @@
 ### About
 
-- This repository includes the code used for the experiments in the paper "Flexible and Efficient Drift Detection without Labels" [link](https://arxiv.org/abs/2506.08734).
+- This repository includes the code used for the experiments in the paper "Flexible and Efficient Drift Detection without Labels" ([link](https://arxiv.org/abs/2506.08734)).
 
 ### Dependencies used in our experiments
 
